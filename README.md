@@ -5,10 +5,10 @@ This directory contains the full **MLflow-based machine learning project** for t
 ## 📂 Directory Structure Overview
 
 ```bash
-📁 MLproject/
 ├── .github/
 │   └── workflows/
 │       └── main.yaml                 # GitHub Actions workflow: automates training mlflow project
+📁 MLproject/
 │
 ├── cleaned_data/
 │   └── resume_data_cleaned.csv      # Preprocessed dataset used for training
